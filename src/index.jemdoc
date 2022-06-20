@@ -1,0 +1,86 @@
+# jemdoc: menu{MENU}{underscore.html}, nofooter
+# jemdoc: title{Hang Yin}
+\n
+
+= *Hang Yin*
+
+{{<img src="./imgs/pic.png" width=170 align="right" style="padding:10px;"/> }}
+*Ph.D. student* \n 
+
+
+[http://www.cse.zju.edu.cn/english/ College of Control Science and Engineering]\n
+[https://www.zju.edu.cn/english/ Zhejiang University] \n
+\n 
+
+*Email:* yinhang\[at\]zju.edu.cn \n
+*Office:* R327,  Building No.9, Yuquan Campus, 38 Zheda Rd, Hangzhou
+
+\n \n
+
+
+== Biography
+
+Hang Yin is a Ph.D. candidate in College of Control Science \& Engineering at Zhejiang University, 
+under the supervision of Prof. [https://person.zju.edu.cn/en/houdb Dibo Hou].
+His Ph.D. committee includes Prof. [https://person.zju.edu.cn/en/0004460 Pingjie Huang] and Dr. [https://person.zju.edu.cn/en/yujie Jie Yu], 
+and he is also working closely with Prof. [https://person.zju.edu.cn/en/0094044 Guangxin Zhang] and Dr. [https://person.zju.edu.cn/en/0020161 Yunqi Cao].  
+He earned his Master of Philosophy (M.PHIL) degree from the Control Science \& Engineering at Zhejiang University.
+Before that, he received his B.Eng degree from Sichuan University (SCU) in 2015, where he worked with Prof. Qun Zhou and Prof. Kai Liu.
+
+His current research focuses on machine/deep learning algorithms and their applications in water environment perception with intelligent in-situ device using fluorescence spectroscopy.
+
+
+== Research
+
+=== Selected Publications ([https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN Full List])
+
+- *Yin, H.*, Wang, K., Liu, Y., Huang, P., Yu, J., & Hou, D. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water, \[J\]. Water, 2021, 13(24): 3612.
+
+- *Yin, H.*, Yu, Q., Dong, H., Hou, D., Huang, P., Zhang, G. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra \[C\]IEEE International Instrumentation and Measurement Technology Conference in 2018Houston, Texas, USA, 2018.5.
+
+- *Yin, H.*, Xue, F., Bi, W., Xu, F., Huang, P., Hou, D. Water quality anomaly detection based on UV-VIS absorption spectrum of large wavelength range with unsupervised reconstructed residual \[C\]International Conference on Optical Instruments and Technology. Chengdu, Sichuan, China, 2021.11
+
+- 尹航, 俞巧君, 侯迪波, 黄平捷, 张光新, 张宏建.基于监督学习的紫外-可见光光谱水质在线异常检测方法研究\[J\]. 光谱学与光谱分析, 2019, 39(02):491-499.
+- 已公开专利：判别水质污染的离散三维荧光/可见光吸收谱检测装置, 发明人：侯迪波，尹航等，申请号：CN202111462748.X，专利申请日：2021年11月29日
+- 软件著作权《流域河道突发污染事故应急预警系统V1.0》，开发者：侯迪波，尹航等，登记号：2017SR082209，2017
+
+=== Projects
+
+- Sep. 2015-Present \n
+  Contamination Intrusion Events in Water Distribution System Using Ultraviolet Spectrum, \n
+  Key words: *Multivariable Statistics, Machine learning, Time sequence analysis* \n
+  Based on the prior information and supervised learning, set up the model of water quality. Studied multivariate statistical analysis and orthogonal projections method, decrease the fluctuation of water among different dataset. Converted UV-VIS spectrums into time-sequence alarm signal, define the abnormal event.
+
+
+
+=== Selected Honors & Awards
+
+Second Place Award in CAD contest at [http://www.ispd.cc/contests/16/ispd2016_contest.html ISPD], held by Xilinx, 2016             \n
+*Championship* of CAD Contest at [http://cad-contest.el.cycu.edu.tw/CAD-contest-at-ICCAD2015/ ICCAD], held by Stanford & IBM, 2015 \n
+Full Postgraduate Studentship at CUHK, 2015-2017.																				   \n
+Excellent Bachelor Thesis Award at SCU (50 students from 9000 students are chosen), 2015 										   \n
+Third Prize Award, Intel Cup Undergraduate Electronic Desgin Contest, 2014														   \n
+First Prize Award, National Robot Competition, 2013																				   \n
+Silver Medal, ACM/ICPC Asia Regional Invitation Contest (Chengdu Site), 2013													   \n
+Talents Project in [http://jwc.scu.edu.cn/wyz/ Wu Yuzhang Honors College] (40 best students out of all students since 2009), 2013-2015 \n
+Scholarships for Excellent Comprehensive Performance at SCU, 2012-2015 \n
+Excellent Engineers Project of Chinese Ministry of Education, 2011-2015 \n
+
+
+
+== Activities
+
+=== Social Services
+
+IEEE\/ACM Design Automation Conference (DAC)  \n
+IEEE\/ACM Asia and South Pacific Design Automation Conference (ASPDAC)  \n
+Great Lakes Symposium on VLSI (GLVLSI)  \n
+
+=== Lectures
+
+IEEE Transactions On Computer-Aided Design (TCAD)  \n
+Journal of Micro/Nanolithography, MEMS, and MOEMS (JM3)  \n
+
+=== Internship
+
+== ~

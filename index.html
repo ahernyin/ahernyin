@@ -15,22 +15,31 @@ MathJax.Hub.Config({
 });
 </script>
 <!-- End MathJax -->
+<!-- jquery -->
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $("h3").each(function() {
+          $(this).attr('id',$(this).text());
+        });
+    });
+</script>
 </head>
-<body>
+<body id='top'>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
 <td id="layout-menu">
-<div class="menu-category">Contents</div>
+<div class="menu-category">Biography</div>
 <div class="menu-item"><a href="index.html">Home</a></div>
-<div class="menu-item"><a href="index.html">Biography</a></div>
 <div class="menu-category">Research</div>
-<div class="menu-item"><a href="index.html">Publications</a></div>
-<div class="menu-item"><a href="index.html">Projects</a></div>
-<div class="menu-item"><a href="index.html">Honors&nbsp;&amp;&nbsp;Awards</a></div>
+<div class="menu-item"><a href="#Selected Publications">Publications</a></div>
+<div class="menu-item"><a href="#Patents &amp; Software copyrights">Patents&nbsp;&amp;&nbsp;Software&nbsp;copyrights</a></div>
+<div class="menu-item"><a href="#Projects">Projects</a></div>
+<div class="menu-item"><a href="#Honors &amp; Awards">Honors&nbsp;&amp;&nbsp;Awards</a></div>
 <div class="menu-category">Activities</div>
-<div class="menu-item"><a href="index.html">Lectures</a></div>
-<div class="menu-item"><a href="index.html">Social&nbsp;Services</a></div>
-<div class="menu-item"><a href="index.html">Internship</a></div>
+<div class="menu-item"><a href="#Lectures">Lectures</a></div>
+<div class="menu-item"><a href="#Social Services">Social&nbsp;Services</a></div>
+<div class="menu-item"><a href="#Internship">Internship</a></div>
 </td>
 <td id="layout-content">
 <p><br />
@@ -60,7 +69,7 @@ Before that, he received his B.Eng degree from Sichuan University (SCU) in 2015,
 <p>His current research focuses on machine/deep learning algorithms and their applications in water environment perception with intelligent in-situ device using fluorescence spectroscopy.
 </p>
 <h2>Research</h2>
-<h3>Publications (<a href="https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&amp;hl=zh-CN" target=&ldquo;blank&rdquo;>Full List</a>)</h3>
+<h3>Selected Publications</h3>
 <ul>
 <li><p><b>Yin, H.</b>, Wang, K., Liu, Y., Huang, P., Yu, J., &amp; Hou, D. Fluorescence Excitation-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water, [J]. Water, 2021, 13(24): 3612.
 </p>
@@ -81,6 +90,13 @@ Before that, he received his B.Eng degree from Sichuan University (SCU) in 2015,
 </p>
 </li>
 </ul>
+<ul>
+<li><p><a href="https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&amp;hl=zh-CN" target=&ldquo;blank&rdquo;>Full List</a>
+</p>
+</li>
+</ul>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
+</p>
 <h3>Patents & Software copyrights</h3>
 <ul>
 <li><p>判别水质污染的离散三维荧光/可见光吸收谱检测装置, 发明人：侯迪波，<b>尹航</b>等，申请号：CN202111462748.X，专利申请日：2021年11月29日
@@ -92,6 +108,8 @@ Before that, he received his B.Eng degree from Sichuan University (SCU) in 2015,
 </p>
 </li>
 </ul>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
+</p>
 <h3>Projects</h3>
 <ul>
 <li><p>2018.09 – 今 <br />
@@ -124,6 +142,8 @@ Calibrated the binocular stereo vision system, obtain the Pinhole imaging model 
 </p>
 </li>
 </ul>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
+</p>
 <h3>Honors &amp; Awards</h3>
 <p>Excellent Comprehensive Performance at ZJU, <br />
 Excellent Student Cadre at ZJU, <br />
@@ -135,6 +155,8 @@ Excellent Graduate Student <br />
 Honorable Mention in MCM, <br />
 2nd Prize Award in International Contest of Innovation 2014, <br />
 3rd Prize Award in Southwestern Region of Freescale Cup Intelligent Car Racing <br />
+</p>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
 </p>
 <h2>Activities</h2>
 <h3>Lectures</h3>
@@ -159,6 +181,8 @@ Exchange activities including visiting and studying for half a month. Focus on t
 </p>
 </li>
 </ul>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
+</p>
 <h3>Social Services</h3>
 <ul>
 <li><p>Aug. 2016- Sep. 2016 <br />
@@ -174,19 +198,23 @@ Teach the Speech Courses and finish the social investigation. 支援5·12地震�
 </p>
 </li>
 </ul>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
+</p>
 <h3>Internship</h3>
 <ul>
-<li><p><a href="2017" target=&ldquo;blank&rdquo;>2017</a>Technology Support in Start-Up Company YITU Tech(Hangzhou, Zhejiang)<br />
+<li><p>[2017]Technology Support in Start-Up Company YITU Tech(Hangzhou, Zhejiang)<br />
 Learnt basic image processing and analyzing in medical field.  Investigated the demand via communicating with Directors of radiology department. Focus on the lung nodule detection using low-dose CT
 </p>
 </li>
 </ul>
 <ul>
-<li><p><a href="2019" target=&ldquo;blank&rdquo;>2019</a>湖北黄石市自来水有限公司博士生科研服务实践 <br />
+<li><p>[2019]湖北黄石市自来水有限公司博士生科研服务实践 <br />
 完成《智能化供水与水务大数据分析》社会实践报告，获社会实践先进个人称号
 </p>
 </li>
 </ul>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
+</p>
 <h2></h2>
 </td>
 </tr>

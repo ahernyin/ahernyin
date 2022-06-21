@@ -22,6 +22,9 @@ MathJax.Hub.Config({
         $("h3").each(function() {
           $(this).attr('id',$(this).text());
         });
+    $("a[href$='#top']").each(function() {
+          $(this).attr('target','');
+        });
     });
 </script>
 </head>
@@ -30,7 +33,7 @@ MathJax.Hub.Config({
 <tr valign="top">
 <td id="layout-menu">
 <div class="menu-category">Biography</div>
-<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-category">Research</div>
 <div class="menu-item"><a href="#Selected Publications">Publications</a></div>
 <div class="menu-item"><a href="#Patents &amp; Software copyrights">Patents&nbsp;&amp;&nbsp;Software&nbsp;copyrights</a></div>
@@ -213,9 +216,7 @@ Learnt basic image processing and analyzing in medical field.  Investigated the 
 </p>
 </li>
 </ul>
-<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a>
-</p>
-<h2></h2>
+<p><a href="#top" target=&ldquo;blank&rdquo;>#top</a></p>
 </td>
 </tr>
 </table>

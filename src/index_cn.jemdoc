@@ -27,6 +27,13 @@
 
 我目前的研究方向是机器学习/深度学习在水环境感知方面的应用，包括在线软件、算法及硬件的研发。
 
+== 近况
+  ~~
+  *更新截止至2022年9月30日* \n
+  - 2022.9, 我们基于时间序列的三维荧光有机物污染事件检测工作被 [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation, Control and Automation]（ICA2022） 接收. \n
+  - 2022.8, 我们的论文“基于三维荧光时间序列双阈值的饮用水污染事件检测方法研究”被光谱学与光谱分析期刊录用 \n
+  ~~
+
 == 研究情况
 
 === 项目
@@ -53,11 +60,11 @@
   -- 大学生创新训练计划国家重点项目“基于双目立体视觉与二维图像特征检测技术的盲人助行系统（Top 3%）”，标定主动双目系统获得相机模型参数，从而在计算机上构建空间立体系统散点坐标进行障碍物检测；结合二维图像纹理特征，对盲道进行识别；基于树莓派Linux平台，对立体视觉系统进行了初步调试；
 
 
-=== 论文代表作([https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN 完整清单])
+=== 论文代表作（[https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN 完整清单]）
 
-- \[J\] *Yin, H.*, Wang, K., Liu, Y., Huang, P., Yu, J., & Hou, D. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water,. Water, 2021, 13(24): 3612.
+- \[J\] *Yin, H.*, Wang, K., Liu, Y., Huang, P., Yu, J., & Hou, D. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water,. Water, 2021, 13（24）: 3612.
 
-- \[J\] *Yin, H.*, Qiao-jun Y, Di-bo H, et al. In-Situ Detection of Water Quality Anomaly with UV/Vis Spectrum Based on Supervised Learning \[J\]. SPECTROSCOPY AND SPECTRAL ANALYSIS, 2019, 39(2): 491-499.
+- \[J\] *Yin, H.*, Qiao-jun Y, Di-bo H, et al. In-Situ Detection of Water Quality Anomaly with UV/Vis Spectrum Based on Supervised Learning \[J\]. SPECTROSCOPY AND SPECTRAL ANALYSIS, 2019, 39（2）: 491-499.
 
 - \[C\] *Yin, H.*, Yu, Q., Dong, H., Hou, D., Huang, P., Zhang, G. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra \[C\]IEEE International Instrumentation and Measurement Technology Conference in 2018Houston, Texas, USA, 2018.5.
 
@@ -85,14 +92,14 @@
 
 
 === 社会服务
-- 2016.08 - 2016.09 G20 志愿者 (浙江杭州) \n
+- 2016.08 - 2016.09 G20 志愿者 （浙江杭州） \n
   -- 杭州G20期间入住杭州国际博览中心，负责语言翻译，协助现场安保人员与外国记者沟通。
 
-- 2012.07 暑期支教教师(四川广元)  \n
+- 2012.07 暑期支教教师（四川广元）  \n
   -- 支援5·12地震灾区教育重建工作，经过校方选拔为当地学生开设“演讲与口才”暑期课程。   
 
 === 实习
-- 2017, [https://www.yitutech.com/ 依图科技]技术支持(Hangzhou, Zhejiang)\n
+- 2017, [https://www.yitutech.com/ 依图科技]，解决方案工程师（浙江杭州）\n
   -- 负责浙江省多家三甲医院的肺结节诊断早筛系统售前演示工作；协助公司主管部门制定中台工作流
   -- 参与儿童骨龄诊断系统早期调研设计与数据建模工作。团队后续工作发表至[https://www.nature.com/articles/s41591-018-0335-9 Nature Medicine]
 
@@ -101,14 +108,19 @@
 
 
 === 荣誉奖励
-- 2020年12月，于湖南长沙获得中国研究生人工智能创新大赛全国二等奖(奖金：￥10000) ,见[https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c9088a67597479f01766ed076c01270 媒体报道]
+- 2020年12月，于湖南长沙获得中国研究生人工智能创新大赛全国二等奖（奖金：￥10000） ,见[https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c9088a67597479f01766ed076c01270 媒体报道]
 - 浙江大学优秀学生, \n
 - 浙江大学企业奖学金 \n
-- 四川大学本科优秀毕业论文 (Top 1%) . \n
+- 四川大学本科优秀毕业论文 （Top 1%） . \n
 - 四川大学优秀毕业生\n
 - 2014年美国大学生数学竞赛H奖 \n
 - 2014年10月，于江苏无锡获得iCAN大赛全国二等奖, \n
 - 2013年11月，于贵州贵阳获得机器人锦标赛全国一等奖，见[https://news.scu.edu.cn/info/1138/21263.htm 媒体报道]\n
 
+~~~
+{Vistors}{raw}
+<!-- ClusterMap -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=QUGZS1WYexLDjr-dtvFDKz9RLc7Kjm19koutYkqJJY8'></script>
+~~~
 
 [\#top]

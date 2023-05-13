@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU_CN}{index_cn.html}, nofooter
+# jemdoc: menu{MENU_CN}{index_cn.html}，nofooter
 # jemdoc: title{Hang Yin}
 \n
 *{{<p style="display: block;text-align:right;"><a href="index_cn.html" >中文</a> | <a href="index.html">EN</a>}}*
@@ -25,13 +25,14 @@
 
 2018年3月，我获得浙江大学工学硕士学位。2015年6月，我在电气信息学院周群教授、刘凯教授的指导下，获得四川大学工学学士学位。
 
-我目前的研究方向是机器学习/深度学习在水环境感知方面的应用，包括在线软件、算法及硬件的研发。
+我目前的研究方向是机器学习/深度学习在光谱环境感知方面的应用，包括在线软件、算法及硬件的研发。
 
 == 近况
   ~~
-  *更新截止至2022年9月30日* \n
-  - 2022.9, 我们基于时间序列的三维荧光有机物污染事件检测工作被 [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation, Control and Automation]（ICA2022） 接收. \n
-  - 2022.8, 我们的论文“基于三维荧光时间序列双阈值的饮用水污染事件检测方法研究”被光谱学与光谱分析期刊录用 \n
+  *更新截止至2023年5月13日* \n
+  - 2023.4，我们探讨光谱开集识别的工作被TOP期刊 [https://doi.org/10.1109/JSEN.2023.3267488 IEEE Sensors Journal] 接收
+  - 2022.9,我们基于时间序列的三维荧光有机物污染事件检测工作被 [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation，Control and Automation]（ICA2022） 接收. \n
+  - 2022.8,我们的论文“基于三维荧光时间序列双阈值的饮用水污染事件检测方法研究”被光谱学与光谱分析期刊录用 \n
   ~~
 
 == 研究情况
@@ -46,7 +47,7 @@
     --- 自然科学基金面上项目“基于多源信息融合的水质在线异常检测与分类识别方法研究”
     --- 浙江省重大研发专项“河道治理与维护的智能化管理及长效运行机制研究”
 
-- 2017.05 – 今   智慧河湖长制平台开发项目，担任公司技术副总监, \n
+- 2017.05 – 今   智慧河湖长制平台开发项目，担任公司技术副总监，\n
   -- 该项目是一个商业B/S办公自动化系统，使用J2EE架构。落地系统重点功能包括：信息系统管理、办公OA、工作闭环流程、考核自动化、水质分析、业务数据分析等。系统在web端、*[https://apps.apple.com/us/developer/%E6%9D%AD%E5%B7%9E%E4%BF%A1%E4%BA%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1009084386 IOS端]*及Android端具备符合需求的业务功能。
   -- 落地客户包括国内县处级单位2家，乡科级单位3家；负责项目落地合同累计金额300万以上；与重点客户持续紧密沟通，不断协助客户扩大影响。据已经建成工作样板的重点客户统计，截止至2021年底，先后有水利部部长、山东省省长以及来自全国各地近150多家市县级河长办单位赴客户处开展工作指导、调研、交流学习。
 
@@ -62,16 +63,17 @@
 
 === 论文代表作（[https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN 完整清单]）
 
-- \[J\] *Hang Y.*, et al. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water,. Water, 2021, 13(24): 3612.
 
-- \[J\] *Hang Y.*, et al. In-Situ Detection of Water Quality Anomaly with UV/Vis Spectrum Based on Supervised Learning, SPECTROSCOPY AND SPECTRAL ANALYSIS, 2019, 39(2): 491-499.
+- \[J\] *Hang Y.*,et al. Open-set recognition for unknown organic pollutants in drinking water with three-dimensional fluorescence spectroscopy. IEEE Sensors Journal,2023.
 
-- \[C\] *Hang Y.*, et al. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra IEEE International Instrumentation and Measurement Technology Conference in 2018Houston, Texas, USA, 2018.5.
+- \[J\] *Hang Y.*,et al. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water, Water,2021,13(24): 3612.
+
+- \[C\] *Hang Y.*,et al. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra IEEE International Instrumentation and Measurement Technology Conference in 2018Houston,
 
 
 === 专利软著
 
-- 判别水质污染的离散三维荧光/可见光吸收谱检测装置, 发明人：侯迪波，*尹航*等，申请号：CN202111462748，专利申请日：2021年11月29日
+- 判别水质污染的离散三维荧光/可见光吸收谱检测装置，发明人：侯迪波，*尹航*等，申请号：CN202111462748，专利申请日：2021年11月29日
 
 - 软件著作权《流域河道突发污染事故应急预警系统V1.0》，开发者：侯迪波，*尹航*等，登记号：2017SR082209，2017年
 
@@ -99,22 +101,22 @@
   -- 支援5·12地震灾区教育重建工作，经过校方选拔为当地学生开设“演讲与口才”暑期课程。   
 
 === 实习
-- 2017, [https://www.yitutech.com/ 依图科技]，解决方案工程师（浙江杭州）\n
+- 2017，[https://www.yitutech.com/ 依图科技]，解决方案工程师（浙江杭州）\n
   -- 负责浙江省多家三甲医院的肺结节诊断早筛系统售前演示工作；协助公司主管部门制定中台工作流
   -- 参与儿童骨龄诊断系统早期调研设计与数据建模工作。团队后续工作发表至[https://www.nature.com/articles/s41591-018-0335-9 Nature Medicine]
 
 
-- 2019, 湖北黄石市自来水有限公司博士生科研服务实践,见[https://mp.weixin.qq.com/s/E1EAgku7LgWmXdYJB69jNA 媒体报道] \n
+- 2019，湖北黄石市自来水有限公司博士生科研服务实践,见[https://mp.weixin.qq.com/s/E1EAgku7LgWmXdYJB69jNA 媒体报道] \n
 
 
 === 荣誉奖励
 - 2020年12月，于湖南长沙获得中国研究生人工智能创新大赛全国二等奖（奖金：￥10000） ,见[https://cpipc.acge.org.cn//cw/detail/2c9088a5696cbf370169a3f8101510bd/2c9088a67597479f01766ed076c01270 媒体报道]
-- 浙江大学优秀学生, \n
+- 浙江大学优秀学生，\n
 - 浙江大学企业奖学金 \n
 - 四川大学本科优秀毕业论文 （Top 1%） . \n
 - 四川大学优秀毕业生\n
 - 2014年美国大学生数学竞赛H奖 \n
-- 2014年10月，于江苏无锡获得iCAN大赛全国二等奖, \n
+- 2014年10月，于江苏无锡获得iCAN大赛全国二等奖，\n
 - 2013年11月，于贵州贵阳获得机器人锦标赛全国一等奖，见[https://news.scu.edu.cn/info/1138/21263.htm 媒体报道]\n
 
 ~~~

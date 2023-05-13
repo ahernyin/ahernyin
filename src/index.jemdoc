@@ -13,7 +13,7 @@
 \n 
 
 *Email:* [yinhang@zju.edu.cn yinhang\[at\]zju.edu.cn] \n
-*Office:* R327,  Building No.9, Yuquan Campus, 38 Zheda Rd, Hangzhou
+*Office:* R325,  Building No.9, Yuquan Campus, 38 Zheda Rd, Hangzhou
 
 \n \n
 
@@ -28,11 +28,12 @@ and he is also working closely with Prof. [https://person.zju.edu.cn/en/0094044 
 He earned his Master of Philosophy (M.PHIL) degree from the Control Science \& Engineering at Zhejiang University.
 Before that, he received his B.Eng degree from Sichuan University (SCU) in 2015, where he worked with Prof. Qun Zhou and Prof. Kai Liu.
 
-His current research focuses on machine/deep learning algorithms and their applications in water environment perception with intelligent in-situ device.
+His current research focuses on machine/deep learning algorithms and their applications in optical sensing technology with intelligent in-situ device.
 
 == Recent Updates
   ~~
-  *Until Sep. 30th, 2022* \n
+  *Until May. 13th, 2023* \n
+  - Apr. 2023, Our work on spectral open-set recognition is accepted by [https://doi.org/10.1109/JSEN.2023.3267488 IEEE Sensors Journal]
   - Sep. 2022, Our work on pollution events detection in drinking water has been accepted to [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation, Control and Automation] (ICA2022). \n
   - Aug. 2022, One paper "Study on detection method of drinking water pollution events based on 3D fluorescence time series double threshold" have been accetpted to Spectroscopy and Spectral Analysis \n
   ~~
@@ -60,9 +61,9 @@ His current research focuses on machine/deep learning algorithms and their appli
 
 === Selected Publications([https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN Full List])
 
-- \[J\] *Hang Y.*, et al. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water,. Water, 2021, 13(24): 3612.
+- \[J\] *Hang Y.*,et al. Open-set recognition for unknown organic pollutants in drinking water with three-dimensional fluorescence spectroscopy. IEEE Sensors Journal,2023.
 
-- \[J\] *Hang Y.*, et al. In-Situ Detection of Water Quality Anomaly with UV/Vis Spectrum Based on Supervised Learning, SPECTROSCOPY AND SPECTRAL ANALYSIS, 2019, 39(2): 491-499.
+- \[J\] *Hang Y.*, et al. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water,. Water, 2021, 13(24): 3612.
 
 - \[C\] *Hang Y.*, et al. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra IEEE International Instrumentation and Measurement Technology Conference in 2018Houston, Texas, USA, 2018.5.
 

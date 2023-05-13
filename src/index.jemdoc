@@ -25,7 +25,7 @@ under the supervision of Prof. [https://person.zju.edu.cn/en/houdb Dibo Hou].
 His Ph.D. committee includes Prof. [https://person.zju.edu.cn/en/0004460 Pingjie Huang] and Dr. [https://person.zju.edu.cn/en/yujie Jie Yu], 
 and he is also working closely with Prof. [https://person.zju.edu.cn/en/0094044 Guangxin Zhang] and Dr. [https://person.zju.edu.cn/en/0020161 Yunqi Cao].  
 
-He earned his Master of Philosophy (M.PHIL) degree from the Control Science \& Engineering at Zhejiang University.
+He earned his Master of Philosophy (M.Sc.) degree from the College of Control Science \& Engineering at Zhejiang University(ZJU).
 Before that, he received his B.Eng degree from Sichuan University (SCU) in 2015, where he worked with Prof. Qun Zhou and Prof. Kai Liu.
 
 His current research focuses on machine/deep learning algorithms and their applications in optical sensing technology with intelligent in-situ device.
@@ -33,24 +33,25 @@ His current research focuses on machine/deep learning algorithms and their appli
 == Recent Updates
   ~~
   *Until May. 13th, 2023* \n
-  - Apr. 2023, Our work on spectral open-set recognition is accepted by [https://doi.org/10.1109/JSEN.2023.3267488 IEEE Sensors Journal]
-  - Sep. 2022, Our work on pollution events detection in drinking water has been accepted to [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation, Control and Automation] (ICA2022). \n
-  - Aug. 2022, One paper "Study on detection method of drinking water pollution events based on 3D fluorescence time series double threshold" have been accetpted to Spectroscopy and Spectral Analysis \n
+  - Apr. 2023, our work on spectral open-set recognition has been accepted by [https://doi.org/10.1109/JSEN.2023.3267488 IEEE Sensors Journal]
+  - Apr. 14th 2023,the patent "Adaptive Rayleigh Scattering Processing Method Based on turbidity Compensation and Scattering Width Estimation (CN115963092A)" was published
+  - Sep. 2022, our work on pollution events detection in drinking water has been accepted to [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation, Control and Automation] (ICA2022). \n
+  - Aug. 2022, our paper "Study on detection method of drinking water pollution events based on 3D fluorescence time series double threshold" have been accetpted to Spectroscopy and Spectral Analysis \n
   ~~
 
 == Research
 
 === Key Projects
 
-- *Sep. 2018–Present*, Deep learning identification of organic compounds in water based on online spectral data \n
+- *Sep. 2019–Present*, Deep learning identification of organic compounds in water based on online spectral data \n
   -- This is a Ph.D. research project. In view of the fact that spectral analysis theory of traditional chemical analysis method is highly professional and dependent on the experience and ability of related experts, which is difficult to implement analysis system, an automatic water quality monitoring scheme is proposed.
   -- *The core technologies involved as follows*: Deep Learning (few-shot or zeros-shot)，Molecular fingerprint of organic substances, three-dimensional fluorescence spectroanalysis, absorption spectroanalysis
   -- Mainly funded by the following projects: 
       --- The National Key Research and Development Program of China (No. 2017YFC1403801) Study on spectral detection method of TOC in seawater.
-      --- National Natural Science Foundation of China (No 61573313)Detecting and classifying anomaly water quality events based on multi-source information fusion
+      --- National Natural Science Foundation of China (No. 61573313)Detecting and classifying anomaly water quality events based on multi-source information fusion
       --- Key R&D project of Zhejiang Province(No. 2015C03014)Study on intelligent management and long-term operation mechanism of river regulation and maintenance
 
-- *May 2017–Present*, Deputy Technical Director of Wisdom System Platform of River Chief Office in government \n
+- *May. 2017–Dec. 2022*, Deputy Technical Director of Wisdom System Platform of River Chief Office in government \n
   -- The project was developed as an kind of commercial Browser-Server office automatic system. The whole service logic was based on J2EE frame, with *[https://apps.apple.com/us/developer/%E6%9D%AD%E5%B7%9E%E4%BF%A1%E4%BA%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1009084386 IOS] and Android Apps*.
   -- Include 2 county-level customers and 3 township-level customers, *with more than ￥3,000,000 of contract value*.
   -- I am keeping in close touch with key customers and help them expand their influence. Nearly 150 municipal units conducted research, exchange and study until 2021.
@@ -59,7 +60,7 @@ His current research focuses on machine/deep learning algorithms and their appli
   -- One of the students' national projects (Top 3\%) \n
   -- Calibrated the binocular stereo vision system, obtain the Pinhole imaging model of the system\; Detecting the substance via space scatter point based on Raspberry Pi Linux System.
 
-=== Selected Publications([https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN Full List])
+=== Key Publications 
 
 - \[J\] *Hang Y.*,et al. Open-set recognition for unknown organic pollutants in drinking water with three-dimensional fluorescence spectroscopy. IEEE Sensors Journal,2023.
 
@@ -67,6 +68,8 @@ His current research focuses on machine/deep learning algorithms and their appli
 
 - \[C\] *Hang Y.*, et al. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra IEEE International Instrumentation and Measurement Technology Conference in 2018Houston, Texas, USA, 2018.5.
 
+[https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN Google Scholar], 
+[https://orcid.org/0000-0002-7930-0027 ORCID]
 
 
 === Patents \& Software copyrights
@@ -86,7 +89,7 @@ His current research focuses on machine/deep learning algorithms and their appli
 
 - Nov. 27th 2020, Keynote speaker of the fourth Urban management Forum of West Lake District(Hangzhou, China). [https://zj.zjol.com.cn/news.html?id=1571932 Report]
 
-- Jan.29th–Feb.11th 2017, Oxford Visiting Student (Oxford, UK)  \n
+- Jan.29th–Feb.11th 2017, Oxford Visiting Student (Oxfordshire, UK)  \n
 
 
 === Social Services
@@ -107,7 +110,7 @@ Summer course "Speech and Eloquence" was offered by me. Support education recons
 
 === Honors & Awards
 
-- 2nd Prize Award(￥10000) in China postgraduate AI Innovation Competition 2020(Top 2\%), at Changsha
+- 2nd Prize Award(￥10000) in Chinese postgraduate AI Innovation Competition 2020(Top 2\%), at Changsha
 - Excellent Comprehensive Performance at ZJU, \n
 - Enterprise Scholarship from ZJU \n
 - Outstanding Bachelor Thesis Award (Top 1%) of SCU. \n

@@ -31,15 +31,16 @@
   ~~
   *更新截止至2023年5月13日* \n
   - 2023.4，我们探讨光谱开集识别的工作被TOP期刊 [https://doi.org/10.1109/JSEN.2023.3267488 IEEE Sensors Journal] 接收
-  - 2022.9,我们基于时间序列的三维荧光有机物污染事件检测工作被 [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation，Control and Automation]（ICA2022） 接收. \n
-  - 2022.8,我们的论文“基于三维荧光时间序列双阈值的饮用水污染事件检测方法研究”被光谱学与光谱分析期刊录用 \n
+  - 2023.4.14，专利“基于浊度补偿和散射宽度估计的自适应瑞利散射处理方法(CN115963092A)”公开了
+  - 2022.9，我们基于时间序列的三维荧光有机物污染事件检测工作被 [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation，Control and Automation]（ICA2022） 接收. \n
+  - 2022.8，我们的论文“基于三维荧光时间序列双阈值的饮用水污染事件检测方法研究”被光谱学与光谱分析期刊录用 \n
   ~~
 
 == 研究情况
 
 === 项目
 
-- 2018.09 – 今  基于在线光谱数据的水体有机物深度学习识别研究 \n
+- 2019.09 – 今  基于在线光谱数据的水体有机物深度学习识别研究 \n
  -- 这是我的博士生研究课题。针对传统化学分析方法的光谱分析理论专业性强、非常依赖于相关专家的经验和能力、分析系统落地较难的情况，提出一种水质自动化监测方案。
  -- 涉及核心技术包括如下：深度学习（小样本，零样本方向）、有机物分子指纹、三维荧光光谱分析
  -- 主要依托如下科技项目：
@@ -47,7 +48,7 @@
     --- 自然科学基金面上项目“基于多源信息融合的水质在线异常检测与分类识别方法研究”
     --- 浙江省重大研发专项“河道治理与维护的智能化管理及长效运行机制研究”
 
-- 2017.05 – 今   智慧河湖长制平台开发项目，担任公司技术副总监，\n
+- 2017.05 – 2022.12   智慧河湖长制平台开发项目，担任公司技术副总监，\n
   -- 该项目是一个商业B/S办公自动化系统，使用J2EE架构。落地系统重点功能包括：信息系统管理、办公OA、工作闭环流程、考核自动化、水质分析、业务数据分析等。系统在web端、*[https://apps.apple.com/us/developer/%E6%9D%AD%E5%B7%9E%E4%BF%A1%E4%BA%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1009084386 IOS端]*及Android端具备符合需求的业务功能。
   -- 落地客户包括国内县处级单位2家，乡科级单位3家；负责项目落地合同累计金额300万以上；与重点客户持续紧密沟通，不断协助客户扩大影响。据已经建成工作样板的重点客户统计，截止至2021年底，先后有水利部部长、山东省省长以及来自全国各地近150多家市县级河长办单位赴客户处开展工作指导、调研、交流学习。
 
@@ -61,7 +62,7 @@
   -- 大学生创新训练计划国家重点项目“基于双目立体视觉与二维图像特征检测技术的盲人助行系统（Top 3%）”，标定主动双目系统获得相机模型参数，从而在计算机上构建空间立体系统散点坐标进行障碍物检测；结合二维图像纹理特征，对盲道进行识别；基于树莓派Linux平台，对立体视觉系统进行了初步调试；
 
 
-=== 论文代表作（[https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN 完整清单]）
+=== 论文代表作
 
 
 - \[J\] *Hang Y.*,et al. Open-set recognition for unknown organic pollutants in drinking water with three-dimensional fluorescence spectroscopy. IEEE Sensors Journal,2023.
@@ -70,7 +71,8 @@
 
 - \[C\] *Hang Y.*,et al. Detection of Specific Contamination Events in Water Distribution System Using Ultraviolet Spectra IEEE International Instrumentation and Measurement Technology Conference in 2018Houston,
 
-
+[https://scholar.google.com.hk/citations?user=Ln9MtHYAAAAJ&hl=zh-CN Google Scholar], 
+[https://orcid.org/0000-0002-7930-0027 ORCID]
 === 专利软著
 
 - 判别水质污染的离散三维荧光/可见光吸收谱检测装置，发明人：侯迪波，*尹航*等，申请号：CN202111462748，专利申请日：2021年11月29日

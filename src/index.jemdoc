@@ -1,10 +1,9 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
 # jemdoc: title{Hang Yin}
 \n
-*{{<p style="display: block;text-align:right;"><a href="index_cn.html" >中文</a> | <a href="index.html">EN</a>}}*
 = *Hang Yin* 
 
-{{<img src="./imgs/pic.png" width=170 align="right" style="padding:10px;"/> }}
+{{<img src="./imgs/pic.png" width=150 align="right" style="padding:0px;"/> }}
 *Ph.D. candidate* \n 
 
 
@@ -32,27 +31,29 @@ His current research focuses on machine/deep learning algorithms and their appli
 
 == Recent Updates
   ~~
-  *Until May. 13th, 2023* \n
+  *Until May. 15th, 2024* \n
+  - May. 2024, my doctoral thesis was approved by experts. Next step is to prepared oral defence. 
+  - Oct. 2023, I was invited to participate in the Research Opportunity Week at the Technical University of Munich, Germany. 
   - Apr. 2023, our work on spectral open-set recognition has been accepted by [https://doi.org/10.1109/JSEN.2023.3267488 IEEE Sensors Journal]
   - Apr. 14th 2023,the patent "Adaptive Rayleigh Scattering Processing Method Based on turbidity Compensation and Scattering Width Estimation (CN115963092A)" was published
   - Sep. 2022, our work on pollution events detection in drinking water has been accepted to [https://www.iwa-ica2022.com/En/Default the 13th IWA Conference on Instrumentation, Control and Automation] (ICA2022). \n
   - Aug. 2022, our paper "Study on detection method of drinking water pollution events based on 3D fluorescence time series double threshold" have been accetpted to Spectroscopy and Spectral Analysis \n
+
+  *{{<p style="display: block;text-align:left;"><a href="index.html" >More...</a>}}*
   ~~
 
 == Research
 
 === Projects
 
-- *2021 - Present*，Key Technology Research and Development Program of Zhejiang Province(2021C03177) \n
-- *2017 - Present*，Wisdom System Platform of River Chief Office in government(￥3,000,000)，Deputy Technical Director \n
-- *2017 - 2020*，National Key Research and Development Program of China (2017YFC1403801) \n
-- *2017 - 2019*，National Natural Science Foundation of China(U1509208) \n
-- *2016 - 2019*，National Natural Science Foundation of China(61573313) \n
-- *2015 - 2020*，Key Technology Research and Development Program of Zhejiang Province(2015C03014)
+- *2021 - Present*, Key Technology Research and Development Program of Zhejiang Province(2021C03177) \n
+- *2017 - Present*, Wisdom System Platform of River Chief Office in government(￥3,000,000), Deputy Technical Director \n
+- *2017 - 2020*, National Key Research and Development Program of China (2017YFC1403801) \n
+- *2017 - 2019*, National Natural Science Foundation of China(U1509208) \n
+- *2016 - 2019*, National Natural Science Foundation of China(61573313) \n
+- *2015 - 2020*, Key Technology Research and Development Program of Zhejiang Province(2015C03014)
 
 === Key Publications
-I have published 7 peer-reviewed journal publications, 2 conference publications, 3 patents, and obtained 4 software copyrights. The key publications are as follows.
-
 - \[J\] *Hang Y.*,et al. Open-set recognition for unknown organic pollutants in drinking water with three-dimensional fluorescence spectroscopy. IEEE Sensors Journal,2023.
 
 - \[J\] *Hang Y.*, et al. Fluorescence Excitation\-Emission Matrix Spectroscopy and Boosting Regression Tree Model to Detect Dissolved Organic Carbon in Water,. Water, 2021, 13(24): 3612.
@@ -80,15 +81,15 @@ I have published 7 peer-reviewed journal publications, 2 conference publications
 
 - Nov. 27th 2020, Keynote speaker of the fourth Urban management Forum of West Lake District(Hangzhou, China). [https://zj.zjol.com.cn/news.html?id=1571932 Report]
 
-- Jan.29th–Feb.11th 2017, Oxford Visiting Student (Oxfordshire, UK)  \n
+- 2017, Oxford Visiting Student (Oxfordshire, UK)  \n
 
 
 === Social Services
+-  Jul. 2012, Supporting Education Volunteer(Sichuan, China)   \n
+Summer course "Speech and Eloquence" was offered by me. Support education reconstruction in the Wenchuan earthquake in 2008.
+
 - Aug. 2016-Sep. 2016, G20 Volunteer (Hangzhou, China) \n
 One of translators, helped security guard communicate with foreign reporters. Stay in the main meeting venue for half a month.
-
--  Jul. 2012, Supporting Education Volunteer(Sichuan)   \n
-Summer course "Speech and Eloquence" was offered by me. Support education reconstruction in the Wenchuan earthquake in 2008.
 
 - Jul. 2019, Ph.D Scientific research services for Water Supply Company of Huangshi, Hubei. [https://mp.weixin.qq.com/s/E1EAgku7LgWmXdYJB69jNA Reports] \n
 
@@ -100,7 +101,7 @@ Summer course "Speech and Eloquence" was offered by me. Support education recons
 - Enterprise Scholarship from ZJU \n
 - Outstanding Bachelor Thesis Award (Top 1%) of SCU. \n
 - Excellent Graduate Student of SCU\n
-- 3 Years’ Scholarships for Excellent Comprehensive Performance at SCU \n
+- 3 Years' Scholarships for Excellent Comprehensive Performance at SCU \n
 - Honorable Mention in MCM of 2014 \n
 - 2nd Prize Award in iCAN International Contest of Innovation 2014, Wuxi, held by Peking University, \n
 - 1st Prize Award in National Robot Competition 2013 \n
